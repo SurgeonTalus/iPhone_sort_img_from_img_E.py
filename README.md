@@ -7,9 +7,10 @@ Separate img_ and img_E files for iPhone
 
 <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/your-username/image-mover.git</code></pre>
+    <pre><code>git clone [https://github.com/your-username/image-mover.git](https://github.com/SurgeonTalus/iPhone_sort_img_from_img_E.py)</code></pre>
     <li>Navigate to the project directory:</li>
-    <pre><code>cd image-mover</code></pre>
+   
+    <pre><code>cd sort_img_from_img_E</code></pre>
     <li>Run the Python script:</li>
     <pre><code>python image_mover.py</code></pre>
 </ol>
