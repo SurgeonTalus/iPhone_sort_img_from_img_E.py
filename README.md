@@ -6,9 +6,9 @@ Separate img_ and img_E files for iPhone
 <h2>Installation</h2>
 
 <ol>
-    <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/SurgeonTalus/iPhone_sort_img_from_img_E.py</code></pre>
-    <li>Navigate to the project directory:</li>
+    Clone the repository:
+    git clone https://github.com/SurgeonTalus/iPhone_sort_img_from_img_E.py
+    Navigate to the project directory:
    
     <pre><code> cd sort_img_from_img_E</code></pre>
     <li>Run the Python script:</li>
