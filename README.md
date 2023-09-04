@@ -1,15 +1,6 @@
 # iPhone_sort_img_from_img_E.py
 Separate img_ and img_E files for iPhone
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Image Mover</title>
-</head>
-<body>
-
-<h1>Image Mover</h1>
-
 <p>This Python program provides a graphical user interface (GUI) for moving images based on specific naming patterns within a selected folder.</p>
 
 <h2>Installation</h2>
